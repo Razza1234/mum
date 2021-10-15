@@ -1,0 +1,83 @@
+.raza>input{
+    position: absolute !important;
+    left: 130px !important;
+    
+}
+input{
+    width: 350px !important;
+    height: 50px !important;
+}
+nav{
+    height: 70px !important;
+}
+.raiyan>input{
+    position: absolute !important;
+    left: 490px !important;
+    
+}
+.pari{
+        width: 520px !important;  
+}
+/* .nav-link{
+    margin-right: 100px;
+} */
+.img-fluid{
+    width: 2000px !important;
+    height: 250px !important;
+ 
+}
+
+.card{
+    width: 270px;
+    height: 400px;
+    margin-left: -15px;
+    margin-top: 10px;
+}
+.card-img{
+    
+    padding:10px;
+
+}
+.learn-more{
+    margin-top: 60px;
+    margin-left: 580px;
+    border: 2px solid black;
+    width: 110px;
+    padding: 10px;
+   
+    font-weight: 500;
+
+}
+.learn-more>a{
+    color: black;
+}
+.learn-more:hover{
+   
+    background-color: blue;
+    text-decoration: n;
+}
+
+.learn-more>a:hover{
+    color: white;
+}
+
+
+.heading{
+    position: absolute;
+    left: 470px;
+    top: 1850px;
+    border-right: 2px solid black;
+    right: 400px;
+    
+
+}
+
+.left{
+  position: absolute;
+  left: 950px;
+  top: 1850px;
+
+}
+.duha{
+    background-color: #F8FAF9;
+}
